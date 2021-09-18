@@ -1,4 +1,4 @@
-# Kata hecha por @keizar76 , @aleepsy
+# Kata hecha durante el coding dojo del 18 set. 2021 por @keizar76 , @aleepsy y @cecivieira
 
 def bowling_pins(arr):
     bowling_pins = "I I I I\n I I I \n  I I  \n   I   "
